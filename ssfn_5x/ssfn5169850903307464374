@@ -1,0 +1,27 @@
+ PayloadSize="7533919" Path="FeaturesOnDemand\et-ee\baseless\Microsoft-Windows-Server-AppCompat-FoD-Package~31bf3856ad364e35~amd64~et-ee~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~amd64~et-ee~" InstalledSize="10910675" Version="10.0.19041.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="language" Value="et-EE" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="AU9pWN5kQ4mJ2Qm4uEAsn8zgjvK/CHW3eF68PY6bpIM=" PayloadSize="23189" Path="FeaturesOnDemand\et-ee\baseless\Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~amd64~et-ee~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="gFweXeAj1UWErUKuKJ15yggqywhfZvRSKWMSsWLzcbA=" PayloadSize="2166634" Path="FeaturesOnDemand\et-ee\baseless\Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~amd64~et-ee~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~wow64~et-ee~" InstalledSize="1173010" Version="10.0.19041.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="arch" Value="wow64" />
+          <ApplyTo Type="language" Value="et-EE" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="ak1cXNwvaAuVKtcnOIK/8xN+n9dmQN3SiQEfIbhWOwU=" PayloadSize="10755" Path="FeaturesOnDemand\et-ee\baseless\Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~wow64~et-ee~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="HgBA7S2IDaUnEndp2ETKxPw/Bw1uSdPeVEQyfsnCMPo=" PayloadSize="341578" Path="FeaturesOnDemand\et-ee\baseless\Microsoft-Windows-ServerManager-Tools-FoD-Package~31bf3856ad364e35~wow64~et-ee~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-Windows-Shielded-VM-Tools-FoD-Package~31bf3856ad364e35~amd64~et-

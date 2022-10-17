@@ -1,0 +1,44 @@
+"10.0.18362.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.4.3161.0" ResourceId="split.language-zh-hans" FileName="AppInstaller_language-zh-hans.appx" Offset="3902461" Size="16722">
+			<Resources>
+				<Resource Language="zh-cn"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.16299.0" MaxVersionTested="10.0.18362.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.4.3161.0" ResourceId="split.language-zh-hant" FileName="AppInstaller_language-zh-hant.appx" Offset="3919271" Size="16739">
+			<Resources>
+				<Resource Language="zh-tw"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.16299.0" MaxVersionTested="10.0.18362.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.4.3161.0" ResourceId="split.scale-100" FileName="AppInstaller_scale-100.appx" Offset="3936091" Size="31635">
+			<Resources>
+				<Resource Scale="100"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.16299.0" MaxVersionTested="10.0.18362.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.4.3161.0" ResourceId="split.scale-125" FileName="AppInstaller_scale-125.appx" Offset="3967807" Size="34874">
+			<Resources>
+				<Resource Scale="125"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.16299.0" MaxVersionTested="10.0.18362.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.4.3161.0" ResourceId="split.scale-150" FileName="AppInstaller_scale-150.appx" Offset="4002762" Size="38658">
+			<Resources>
+				<Resource Scale="150"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.16299.0" MaxVersionTested="10.0.18362.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.4.3161.

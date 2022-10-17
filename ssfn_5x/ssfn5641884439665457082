@@ -1,0 +1,31 @@
+" PackageType="SatellitePackage" />
+      </Packages>
+    </Feature>
+  </Features>
+  <Packages>
+    <Package ID="Microsoft-Windows-Client-LanguagePack-Package_lt-lt~31bf3856ad364e35~amd64~lt-lt~" InstalledSize="159138725" Version="10.0.19041.1">
+      <SatelliteInfo>
+        <DeclareInfo>
+          <Declare Type="language" Value="lt-LT" />
+        </DeclareInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="5IPSX7u/vOCYTiK6zIuB6QkzsfMFvJ/EwC1dygG27TA=" PayloadSize="848439" Path="UUP\Desktop\editionpackages\lt-lt\client\baseless\Microsoft-Windows-Client-LanguagePack-Package_lt-lt~31bf3856ad364e35~amd64~lt-lt~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="qDPrZx/mIAg/3rOjgmCGCWIELrK6Z5ur0naedrcjuwE=" PayloadSize="32141800" Path="UUP\Desktop\editionpackages\lt-lt\client\baseless\Microsoft-Windows-Client-LanguagePack-Package_lt-lt~31bf3856ad364e35~amd64~lt-lt~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-OneCore-StorageManagement-FoD-Package~31bf3856ad364e35~amd64~lt-lt~" InstalledSize="1921224" Version="10.0.19041.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <ApplyTo Type="language" Value="lt-LT" />
+        </ApplyToInfo>
+      </SatelliteInfo>
+      <Payload>
+        <PayloadItem PayloadHash="GTQpZC4r6bpLYZ3YMV4eS7VbFOGCCMPWdMm2ZQNvixY=" PayloadSize="11379" Path="FeaturesOnDemand\lt-lt\baseless\Microsoft-OneCore-StorageManagement-FoD-Package~31bf3856ad364e35~amd64~lt-lt~.cab" PayloadType="ExpressCab" />
+        <PayloadItem PayloadHash="Jx55l2y2dwHYFFJ5tjCTr9ooXhJEvfmDtUk2zj47U6w=" PayloadSize="175674" Path="FeaturesOnDemand\lt-lt\baseless\Microsoft-OneCore-StorageManagement-FoD-Package~31bf3856ad364e35~amd64~lt-lt~.psf" PayloadType="ExpressPSF" />
+      </Payload>
+    </Package>
+    <Package ID="Microsoft-OneCore-StorageManagement-FoD-Package~31bf3856ad364e35~wow64~lt-lt~" InstalledSize="1076374" Version="10.0.19041.1">
+      <SatelliteInfo>
+        <ApplyToInfo>
+          <Appl
